@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building websites and applications
+- 🌱 I’m currently learning front end technologies skills such as HTML, SCSS, React, Styled Components, etc
+- 📫 How to reach me: My email is amallen046@gmail.com 
