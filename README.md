@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building websites and applications
+- 🔭 I’m currently working on building responsive and interactive websites and applications
 - 🌱 I’m currently learning front end technologies skills such as HTML, SCSS, React, Styled Components, etc
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aniya-allen-96364812b/)
