@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I spend time on building responsive and interactive websites and applications.
-- 🌱 I’m currently working on improving my programming skills in HTML, CSS (SCSS), JS, React and recently VueJS and NodeJS.
+- 🔭 I spend time on building responsive and interactive websites and applications using HTML, CSS, JS, React, and recently VueJS and NodeJS.
+- 🌱 I’m currently working on improving my programming skills in full stack development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aniya-allen-96364812b/) or my website: [Website](https://www.aniyaallen.com/)
