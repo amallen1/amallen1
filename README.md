@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I spend time on building responsive and interactive websites and applications using primarly HTML, CSS, JS, and React.
-- 🌱 I’m currently working on improving my programming skills in full stack development (NodeJS, Express, MongoDB).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aniya-allen-96364812b/) or my website: [Website](https://www.aniyaallen.com/)
